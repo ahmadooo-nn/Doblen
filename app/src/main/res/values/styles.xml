@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/backgroun3</item>
+        <item name="colorPrimaryDark">@color/gray</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily" >@font/vazir</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="start" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily" >@font/shabnam</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+</resources>

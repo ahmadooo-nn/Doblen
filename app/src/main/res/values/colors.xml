@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="balck2">#131418</color>
+    <color name="balck3">#0B0C3C</color>
+    <color name="balck">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="lvory">#FFFFF0</color>
+    <color name="star">#FFEB3B</color>
+    <color name="gray">#D7E4E4E4</color>
+    <color name="gray2">#880F0D68</color>
+    <color name="dimGray">#E60E5A61</color>
+    <color name="red">#FF0000</color>
+    <color name="blueDark">#00008B</color>
+    <color name="blue">#0000FF</color>
+    <color name="indigo">#4E342E</color>
+    <color name="mediumBlue">#0000CD</color>
+    <color name="backgroun1">#eb4924</color>
+    <color name="backgroun2">#FFEFD5</color>
+    <color name="backgroun3">#C8B699</color>
+    <color name="call_color">#00C853</color>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Doblen'
+include ':app'
